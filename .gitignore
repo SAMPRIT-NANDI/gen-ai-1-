@@ -1,1 +1,15 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+
+# Virtual env
+.venv/
+venv/
+
+# Environment / secrets
 .env
+
+# Editor / OS
+.vscode/
+Thumbs.db
+Desktop.ini
